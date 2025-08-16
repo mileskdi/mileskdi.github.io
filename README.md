@@ -1,13 +1,7 @@
 # mileskdi.github.io
 Welcome to the homepage of KDI Custom Builds!!
 
-<title>KDI Custom Builds</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
-<style>
-body { padding-bottom: 2rem; }
-iframe { width: 100%; height: 300px; border: none; border-radius: 8px; margin-top: 1rem; }
-.review-box { background: #f5f5f5; padding: 1rem; border-radius: 8px; margin-top: 0.5rem; }
-</style>
+
 </head>
 <body>
 <nav class="container-fluid">
