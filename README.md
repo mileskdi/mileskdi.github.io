@@ -1,10 +1,6 @@
 # mileskdi.github.io
 Welcome to the homepage of KDI Custom Builds!!
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+
 <title>KDI Custom Builds</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
 <style>
